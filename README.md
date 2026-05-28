@@ -4,7 +4,7 @@
   <li>Enzzo Monteiro RM:552616</li>
   <li>Iago Diniz RM:553776</li>
   <li>Lucas Garcia RM:554070</li>
-  <li>Rafael Nascimento RM:553776</li>
+  <li>Rafael Nascimento RM:553117</li>
 </ul>
 
 <h2>Sobre o Projeto</h2>
